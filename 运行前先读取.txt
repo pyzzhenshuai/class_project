@@ -1,0 +1,9 @@
+代码实现顺序：
+1.男女性别提取：transform
+2.人脸筛选：face_chose
+3.特征提取：HOG及系列代码
+后续为分类算法
+KNN算法：KNN及系列代码
+SVM算法：svm
+随机森林：random forest
+BP神经网络：BP
